@@ -6,3 +6,10 @@
     background-color: #4b4b4b4b;
     margin: 1rem 0;
 }
+
+.expense-date{
+    background-color: aqua;
+    padding: 10px 10px;
+    text-align: center;
+ 
+}
